@@ -1,0 +1,39 @@
+
+.bg-custom{
+ background-image: url(
+https://demo.themexpert.com/wordpress/valley/destination-showcase/wp-content/uploads/sites/3/2019/07/footer-bg-2.png
+);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+.footer-image{
+    color: black;
+}
+.footer-title{
+    color: #262626;
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+.footer-p{
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 15px;
+    font-weight: 400; 
+}
+.quick-link a{
+    text-decoration: none;
+    color: #262626;
+}
+ ul{
+    list-style: none;
+}
+.fab{
+    color: #ff4a52;
+    border: 1px solid #ff4a52;
+    padding: 5px;
+    border-radius: 3px;
+}
+.fab:hover{
+    background-color: #ff4a52;
+    color: white;
+    transition: ease 1s;
+}
