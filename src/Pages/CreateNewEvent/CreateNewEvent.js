@@ -39,7 +39,7 @@ const CreateNewEvent = () => {
           <Form onSubmit={handleEvent} className="w-50 mx-auto">
             <Form.Group className="mb-3 fw-bold" controlId="formGroupText">
               <Form.Label>Event Title</Form.Label>
-              <Form.Control onChange={handleAll} name="name" type="text" placeholder="Enter Neme" />
+              <Form.Control onChange={handleAll} name="name" type="text" placeholder="Enter Name" />
             </Form.Group>
             <Form.Group className="mb-3 fw-bold" controlId="formGroupText">
               <Form.Label>Image Ulr</Form.Label>
